@@ -1,0 +1,25 @@
+Battleship Instructions:
+
+1. Each team starts with 5 ships
+     -1 Aircraft Carrier
+     -1 Battleship
+     -1 Cruiser
+     -2 Destroyers
+
+2. In edit mode, click your board to lay down your ships
+
+3. Choose a coordinate and orientation that doesn't go off the end of the board or overlap with other ships
+
+4. To remove your ship placement, just click on the ship you have placed on the board
+
+5. In edit mode, click the select file button and choose a file from the filechooser pop up window
+
+6. The start button will now be enabled, click it to exit edit mode begin the game
+
+7. Click on the computer's board to try and hit the computer's ships
+
+8. The computer will then automatically randomly guess a coordinate and try hitting your ships
+
+9. When you hit every coordinate of a single ship, you sink that ship
+
+10. When either you or the computer sinks all 5 of the opponent's ships, the game ends and resets.
